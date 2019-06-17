@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'belligerent_madnessregular';
+    src: url('police/belligerent-webfont.eot');
+    src: url('police/belligerent-webfont.eot?#iefix') format('embedded-opentype'),
+         url('police/belligerent-webfont.woff2') format('woff2'),
+         url('police/belligerent-webfont.woff') format('woff'),
+         url('police/belligerent-webfont.ttf') format('truetype'),
+         url('police/belligerent-webfont.svg#belligerent_madnessregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+h1
+{
+	border: 3px grey double;
+	text-align: center;
+	font-style: italic;
+	border-radius: 10px 10px
+
+
+}
+
+.etude
+{
+	font-size: 0.6em; 
+	font-family: italic;
+	font-weight: normal;
+}
+
+figure
+{	
+	text-align: left;
+}
+
+img
+{
+	border: solid 3px black;
+	box-shadow: 2px 5px 3px black;
+
+}
+
+
+div
+{
+	border: 3px grey double;
+	border-radius: 10px 10px;
+	border-color: rgb(154, 175, 186);
+}
+
+h2
+{
+	right: 30px;
+}
+
+body
+{
+	background-image: url(image/3.png);
+	background-attachment: scroll; 
+}
+
+h2
+{
+	color: rgb(175, 21, 21);
+	text-decoration: underline;
+}
+
+
+.année
+{
+	text-decoration: underline;
+}
+
+.insta
+{
+	font-family: 'belligerent_madnessregular';
+	font-style: italic;
+}
